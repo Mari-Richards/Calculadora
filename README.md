@@ -40,7 +40,7 @@ Caso o usuário tente dividir um número por zero, o programa exibe uma mensagem
 Exibe o resultado da operação
 O valor final é impresso na tela para o usuário.
 
-🧩 Exemplo de uso
+Exemplo de uso
 Insira o primeiro valor:
 10
 Insira o segundo valor:
@@ -95,7 +95,7 @@ elif op == 4:
 else:
     print("\nOpção inválida!")
 
-🎯 Objetivo do projeto
+Objetivo do projeto
 
 Este projeto ajuda iniciantes a praticar:
 
